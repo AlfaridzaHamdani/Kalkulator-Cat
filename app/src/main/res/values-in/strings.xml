@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulator Cat</string>
+    <string name="kalkulator_intro">Hitung Kebutuhan Cat dengan Mudah!\nMasukkan ukuran permukaan yang akan dicat,
+        pilih jumlah lapisan serta pilih permukaan yang akan di cat, dan dapatkan estimasi cat yang tepat untuk menghemat biaya!</string>
+    <string name="lebar_permukaan">Lebar permukaan</string>
+    <string name="tinggi_permukaan">Tinggi permukaan</string>
+    <string name="lebar_ruangan">Lebar ruangan</string>
+    <string name="panjang_ruangan">Panjang ruangan</string>
+    <string name="tinggi_ruangan">Tinggi ruangan</string>
+    <string name="jumlah_lapisan">Jumlah lapisan</string>
+    <string name="tembok">Tembok</string>
+    <string name="kayu">Kayu</string>
+    <string name="gypsum">Gypsum</string>
+    <string name="hitung">Hitung</string>
+    <string name="jenis_permukaan">Jenis permukaan</string>
+    <string name="result">Jumlah cat yang dibutuhkan :\n%3.2f Liter</string>
+    <string name="input_invalid">Tidak boleh kosong</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Kalkulator Cat merupakan cara untuk menentukan jumlah cat yang dibutuhkan dalam mengecat sebuah permukaan
+        © 2025 Alfaridza Hamdani.\nAll right reserved.</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template_permukaan">Tinggi permukaan : %1$s m\nLebar permukaan : %2$s m\nLapisan :
+    %3$s\nJenis permukaan : %4$s\n\nJumlah cat yang dibutuhkan : %5$.2f Liter</string>
+    <string name="bagikan_template_ruangan">Lebar ruangan : %1$s m\nPanjang ruangan : %2$s m\nTinggi ruangan : %3$s m\nLapisan : %4s\nJenis
+        permukaan : %5$s\n\nJumlah
+    cat yang dibutuhkan : %6$.2f Liter</string>
+    <string name="mode_1">Ruangan</string>
+    <string name="mode_2">Permukaan datar</string>
+    <string name="lapis">lapis</string>
+</resources>
