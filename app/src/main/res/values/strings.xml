@@ -1,6 +1,29 @@
 <resources>
-    <string name="app_name">Kalkulator Akumulasi Cat</string>
+    <string name="app_name">Paint Calculator</string>
     <string name="tentang_aplikasi">Tentang Aplikasi</string>
-    <string name="copyright">Kalkulator Cat merupakan cara untuk menentukan jumlah cat yang dibutuhkan dalam mengecat sebuah permukaan
-        © 2025 Alfaridza Hamdani.\nAll right reserved.</string>
+    <string name="copyright">Paint Calculator is a tool to determine the amount of paint needed for painting a surface.
+        © 2025 Alfaridza Hamdani.\nAll rights reserved.</string>
+    <string name="tembok">Wall</string>
+    <string name="kayu">Wood</string>
+    <string name="gypsum">Gypsum</string>
+    <string name="mode_1">Room</string>
+    <string name="mode_2">Flat Surface</string>
+    <string name="kalkulator_intro">Easily Calculate Paint Needs!\nEnter the surface dimensions, select the number of coats,
+        choose the surface type, and get an accurate paint estimate to save costs!</string>
+    <string name="lebar_permukaan">Surface Width</string>
+    <string name="tinggi_permukaan">Surface Height</string>
+    <string name="lebar_ruangan">Room Width</string>
+    <string name="panjang_ruangan">Room Length</string>
+    <string name="tinggi_ruangan">Room Height</string>
+    <string name="jumlah_lapisan">Number of Coats</string>
+    <string name="lapis">coats</string>
+    <string name="jenis_permukaan">Surface Type</string>
+    <string name="hitung">Calculate</string>
+    <string name="result">Amount of paint needed:\n%3.2f Liters</string>
+    <string name="bagikan_template_permukaan">Surface Height: %1$s m\nSurface Width: %2$s m\nCoats:
+    %3$s\nSurface Type: %4$s\n\nAmount of paint needed: %5$.2f Liters</string>
+    <string name="bagikan_template_ruangan">Room Width: %1$s m\nRoom Length: %2$s m\nRoom Height: %3$s m\nCoats: %4s\nSurface
+        Type: %5$s\n\nAmount of paint needed: %6$.2f Liters</string>
+    <string name="bagikan">Share</string>
+    <string name="input_invalid">Cannot be empty</string>
 </resources>
