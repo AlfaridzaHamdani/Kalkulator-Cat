@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Kalkulator Akumulasi Cat</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Kalkulator Cat merupakan cara untuk menentukan jumlah cat yang dibutuhkan dalam mengecat sebuah permukaan
+        © 2025 Alfaridza Hamdani.\nAll right reserved.</string>
 </resources>
